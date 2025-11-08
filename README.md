@@ -1,6 +1,6 @@
 * Stock Price Predictor
 
-This Python script predicts stock prices using Random Forest regression with PySpark.
+   This Python script predicts stock prices using Random Forest regression with PySpark.
 
 * Features
    - Download historical stock data from Yahoo Finance
